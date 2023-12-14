@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Catalog>
+   <Book id="bk101">
+      <Author>Garghentini, Davide</Author>
+      <Title>XML Developer's Guide</Title>
+      <Genre>Computer</Genre>
+      <Price>44.95</Price>
+      <PublishDate>2000-10-01</PublishDate>
+      <Description>An in-depth look at creating applications
+      with XML.</Description>
+   </Book>
+   <Book id="bk102">
+      <Author>Garcia, Debra</Author>
+      <Title>Midnight Rain</Title>
+      <Genre>Fantasy</Genre>
+      <Price>5.95</Price>
+      <PublishDate>2000-12-16</PublishDate>
+      <Description>A former architect battles corporate zombies,
+      an evil sorceress, and her own childhood to become queen
+      of the world.</Description>
+   </Book>
+     <Book id="bk101">
+      <Author>Jake VanderPlas</Author>
+      <Title>Python Data Science Handbook</Title>
+      <Genre>Computer</Genre>
+      <Price>42.05</Price>
+      <PublishDate>2016-08-16</PublishDate>
+      <Description>Get complete instructions for manipulating, 
+      processing, cleaning, and crunching datasets in Python.
+      </Description>
+   </Book>
+      <Book id="bk104">
+      <Author>Gillian McAllister</Author>
+      <Title>Wrong Place Wrong Time: A Reese's Book Club Pick</Title>
+      <Genre>Mistery</Genre>
+      <Price>15.45</Price>
+      <PublishDate>2023-04-10</PublishDate>
+      <Description>New York Times bestselling author Gillian McAllister has 
+      created a thriller unlike any other in this endlessly clever.
+      </Description>
+   </Book>
+      <Book id="bk102">
+      <Author> William McKinney</Author>
+      <Title>Python for Data Analysis</Title>
+      <Genre>Fantasy</Genre>
+      <Price>45.2</Price>
+      <PublishDate>2018-10-16</PublishDate>
+      <Description>Written by Wes McKinney, the creator of the Python pandas project, 
+      this book is a practical, modern introduction to data science tools in Python.
+      </Description>
+   </Book> 
+</Catalog>
